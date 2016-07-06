@@ -1,9 +1,0 @@
-vdcroxanne.kdc.capitalone.com | FAILED | rc=0 >>
-dunlop.kdc.capitalone.com | FAILED | rc=0 >>
-eomer.kdc.capitalone.com | FAILED | rc=0 >>
-fuji.kdc.capitalone.com | FAILED | rc=0 >>
-r7bitter01.kdc.capitalone.com | FAILED | rc=0 >>
-ronaldinho.kdc.capitalone.com | FAILED | rc=0 >>
-scattante.kdc.capitalone.com | FAILED | rc=0 >>
-slide.kdc.capitalone.com | FAILED | rc=0 >>
-theoden.kdc.capitalone.com | FAILED | rc=0 >>
